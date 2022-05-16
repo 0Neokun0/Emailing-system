@@ -3,8 +3,8 @@
 # 色んなプログラミング言語で
     # メールを送信する
     # PHP
-    # ①ロリポップで自分のメアドを作る
-    # ②PHPでメール送信
+    # ロリポップで自分のメアドを作る
+    # PHPでメール送信
 
 ## lollipop server Email
     Email : contact@upcolor.weblike.jp

@@ -10,3 +10,6 @@
     Email : contact@upcolor.weblike.jp
     Password : Gtm-123gtm123
     SMTP メールサーバー : smtp.lolipop.jp (ポート番号: 465)
+
+
+G
